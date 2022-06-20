@@ -1,0 +1,17 @@
+#contenedor {
+    background-color: rgb(252, 225, 225);
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+#titulo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#menu {
+    background-color: rgb(170, 111, 34);
+ 
+}
